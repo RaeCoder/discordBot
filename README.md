@@ -1,4 +1,4 @@
 # discordBot
-using discord.py
-using docker
+using discord.py <br>
+using docker <br>
 run command="bash run.sh"
